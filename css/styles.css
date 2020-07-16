@@ -138,6 +138,56 @@ h2 {
     padding: 3% 2%;
 }
 
+.card-header { 
+    font-size: 2.5rem;
+    line-height: 1.5;
+}
+
+/* Call to action */
+
+#cta {
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 7% 15%; 
+}
+.cta-heading {
+    font-family: 'Montserrat';
+    font-size: 3rem;
+    font-weight: 900;
+    color: #fff;
+    margin-bottom: 50px;
+}
+
+
+
+/* Footer */
+
+#footer {
+    text-align: center;
+    padding: 7% 15%;
+    color: #8f8f8f;
+    background-color: #fff;
+}
+
+.sm-icon {
+    margin: 30px 10px;
+    color: #000;
+}
+
+.sm-icon:hover {
+    color: #8f8f8f;
+}
+
+.top {
+    text-decoration: none;
+    color: #000;
+}
+
+.top:hover {
+    text-decoration: none;
+    color: #8f8f8f;
+}
+
 @media (max-width: 1028px) {
 
     #title {
